@@ -1,3 +1,5 @@
+#Código desenvolvido por TokyoEdTech. 
+#Fonte: https://www.youtube.com/playlist?list=PLlEgNdBJEO-laHNHHdC_FC8_NNInL3-ow
 import time
 import turtle
 wn = turtle.Screen()
